@@ -1,2 +1,9 @@
-# smart-dotfiles-kit-32
-A simple dotfiles project
+# Dotfiles
+
+A simple dotfiles project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
